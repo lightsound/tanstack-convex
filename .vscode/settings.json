@@ -13,15 +13,7 @@
     "**/*.md": true
   },
   "cSpell.ignorePaths": ["bun.lock", "**/routeTree.gen.ts"],
-  "cSpell.words": [
-    "heroui",
-    "oxfmt",
-    "oxfmtrc",
-    "oxlint",
-    "oxlintrc",
-    "tsgo",
-    "tsgolint"
-  ],
+  "cSpell.words": ["heroui", "oxfmt", "oxfmtrc", "oxlint", "oxlintrc", "tsgo", "tsgolint"],
 
   // oxc
   "oxc.enable": true,
